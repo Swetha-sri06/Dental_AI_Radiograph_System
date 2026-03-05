@@ -2,7 +2,8 @@ torch
 torchvision
 opencv-python
 numpy
-pandas
-scikit-learn
 matplotlib
+scikit-image
 streamlit
+segmentation-models-pytorch
+pillow
